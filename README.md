@@ -2,7 +2,7 @@
 This project describes a 2D game similar to the original pacman game. The game is programmed in C++ and the 2D graphics are rendered using SDL2 library.
 
 <p align="center">
-<img align="center" src="run.png"/>
+<img src="run.png" width="490" height="606"/>
 </p>
 
 ## Dependencies for Running Locally
