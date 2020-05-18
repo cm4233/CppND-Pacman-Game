@@ -30,6 +30,7 @@ This project describes a 2D game similar to the original pacman game. The game i
 ### Player Objective
 * Use arrow keys to change player direction
 * Collect all food on the grid
+* Use green portals to quickly change to the other side (portals allow only the player)
 * Avoid running into enemies
 
 ### Enemy AI behaviour
