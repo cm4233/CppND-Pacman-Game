@@ -22,9 +22,9 @@ This project describes a 2D game similar to the original pacman game. The game i
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 
 ## Basic Build Instructions
-1. Make a build directory in the top level directory: `mkdir build && cd build`
-2. Compile: `cmake .. && make`
-3. Run it: `./PacmanGame`.
+* Make a build directory in the top level directory: `mkdir build && cd build`
+* Compile: `cmake .. && make`
+* Run it: `./PacmanGame`.
 
 ## How to play
 ### Player Objective
