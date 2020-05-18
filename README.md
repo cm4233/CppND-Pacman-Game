@@ -1,5 +1,6 @@
 # Pacman Game
 This project describes a 2D game similar to the original pacman game. The game is programmed in C++ and the 2D graphics are rendered using SDL2 library.
+
 <img src="run.png"/>
 
 ## Dependencies for Running Locally
@@ -35,4 +36,5 @@ This project describes a 2D game similar to the original pacman game. The game i
 There are two enemies in the game, red and blue.
 * Red Enemy (Predictable movement) : Uses A* search algorithm to find the shortest path to the player and moves along that path.
 * Blue Enemy (Unpredictable movement) : Uses a random algorithm to select next move.
+
 <img src="howto.png"/>
